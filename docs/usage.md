@@ -27,3 +27,4 @@ Notes and usage details for shopware-cli.
 - link the usage section
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
